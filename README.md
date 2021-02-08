@@ -1,13 +1,14 @@
-<h3 align="center">
-<img src="https://github.com/pantchayan/pantchayan/blob/main/blackhole.jpg" alt="stacks"/>
+<h3 >
+<img src=".\asset\Live-Motion-Background\Live-Motion-Background.svg" alt="stacks" width = "100%"/>
 </h3>
 
 ### Hi there, It's Chayan 👋
 
 - 🔭 I’m currently working on my own web dev side projects. 🙂
 - 🌱 I’m currently learning about design patterns and architecture.
-- 🤔 I’m looking for help with growing as a programmer.
+- 🤔 I’m always grateful for some help with growing as a programmer.
 - ⚡ fun fact: I love to listen to podcasts and watch cosmic documentries.
+- 🎓 pursuing CSE from Bennett University.
 - 💬 Ask me about anything! 
 
 <br />
