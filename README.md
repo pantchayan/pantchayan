@@ -1,5 +1,5 @@
 <h3 align="center">
-<img src="https://raw.githubusercontent.com/AbhinavRobinson/abhinavrobinson/master/assets/planets.jpg" alt="stacks"/>
+<img src="https://github.com/pantchayan/pantchayan/blob/main/blackhole.jpg" alt="stacks"/>
 </h3>
 
 ### Hi there, It's Chayan 👋
