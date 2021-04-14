@@ -15,7 +15,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-pantchayan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pantchayan/)](https://www.linkedin.com/in/pantchayan/)
 [![Instagram Badge](https://img.shields.io/badge/-chayanxn-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/chayanxn)](https://instagram.com/chayanxn)
-[![Gmail Badge](https://img.shields.io/badge/-pantchayan@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abhinavrobinson@gmail.com)](mailto:pantchayan@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-pantchayan@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pantchayan@gmail.com)](mailto:pantchayan@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/pantchayan-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/pantchayan)
 [![whatsapp](https://img.shields.io/badge/-Whatsapp-075E54?style=flat-square&url=https%3A%2F%2Fwhatsapp.com&logo=Whatsapp&logoColor=white)](https://wa.me/9560368433)
 
